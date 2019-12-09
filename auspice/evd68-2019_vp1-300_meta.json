@@ -32,6 +32,10 @@
       "n": 35,
       "title": "Emergence of enterovirus D68 clade D1, France, August to November 2018"
     },
+    "Bal,A., Schuffenecker,I., Casalegno,J.-S., Valette,M., Armand,N., Bellia Dhondt,P., Escuret,V. and Lina,B.": {
+      "n": 4,
+      "title": "Enterovirus 68 outbreak in a nursing home, France, 2014"
+    },
     "Barnadas,C., Midgley,S.E., Skov,M.N., Jensen,L., Poulsen,M.W. and Fischer,T.K.": {
       "n": 4,
       "title": "An enhanced Enterovirus surveillance system allows identification and characterization of rare and emerging respiratory enteroviruses in Denmark, 2015-16"
@@ -293,8 +297,8 @@
       "title": "Genetic Analysis of Enterovirus D68 strains from a North American outbreak"
     },
     "Midgley et al.": {
-      "n": 30,
-      "title": "Co-circulation of multiple enterovirus D68 subclades, including a novel B3 subclade, in Denmark, France, The Netherlands and Sweden in a year of expected low prevalence"
+      "n": 34,
+      "title": "Co-circulation of multiple enterovirus D68 subclades, including a novel B3 cluster, across Europe in a year of expected low prevalence"
     },
     "Midgley,S.E., Christiansen,C.B., Poulsen,M.W., Hansen,C.H. and Fischer,T.K.": {
       "n": 16,
@@ -500,6 +504,10 @@
       "n": 2,
       "title": "Direct Submission"
     },
+    "Wylie,K.M., Wylie,T.N., Orvedahl,A., Buller,R.S., Herter,B.N., Magrini,V., Wilson,R.K. and Storch,G.A.": {
+      "n": 1,
+      "title": "Genome sequence of enterovirus d68 from st. Louis, missouri, USA"
+    },
     "Xiang,Z. and Wang,J.": {
       "n": 7,
       "title": "Clades of enterovirus D68 infection, China, 2006-2014"
@@ -591,6 +599,10 @@
         [
           "KEKANDVTHNIT",
           "#f58231"
+        ],
+        [
+          "KERASDVTHNIT",
+          "#42d4f4"
         ],
         [
           "KERASDVTHNIN",
@@ -1052,6 +1064,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Enterovirus D68",
-  "updated": "04 Dec 2019",
-  "virus_count": 1685
+  "updated": "09 Dec 2019",
+  "virus_count": 1680
 }

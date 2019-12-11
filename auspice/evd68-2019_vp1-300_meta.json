@@ -32,10 +32,6 @@
       "n": 35,
       "title": "Emergence of enterovirus D68 clade D1, France, August to November 2018"
     },
-    "Bal,A., Schuffenecker,I., Casalegno,J.-S., Valette,M., Armand,N., Bellia Dhondt,P., Escuret,V. and Lina,B.": {
-      "n": 4,
-      "title": "Enterovirus 68 outbreak in a nursing home, France, 2014"
-    },
     "Barnadas,C., Midgley,S.E., Skov,M.N., Jensen,L., Poulsen,M.W. and Fischer,T.K.": {
       "n": 4,
       "title": "An enhanced Enterovirus surveillance system allows identification and characterization of rare and emerging respiratory enteroviruses in Denmark, 2015-16"
@@ -297,7 +293,7 @@
       "title": "Genetic Analysis of Enterovirus D68 strains from a North American outbreak"
     },
     "Midgley et al.": {
-      "n": 34,
+      "n": 46,
       "title": "Co-circulation of multiple enterovirus D68 subclades, including a novel B3 cluster, across Europe in a year of expected low prevalence"
     },
     "Midgley,S.E., Christiansen,C.B., Poulsen,M.W., Hansen,C.H. and Fischer,T.K.": {
@@ -403,10 +399,6 @@
     "Pellegrinelli,L., Piralla,A., Galli,C. and Pariani,E.": {
       "n": 1,
       "title": "Direct Submission"
-    },
-    "Pham,N.T.K.": {
-      "n": 1,
-      "title": "A 3 month child of acute gastroenteritis with enterovirus D68 detected from stool specimen"
     },
     "Piralla,A., Girello,A., Grignani,M., Gozalo-Marguello,M., Marchi,A., Marseglia,G. and Baldanti,F.": {
       "n": 21,
@@ -599,10 +591,6 @@
         [
           "KEKANDVTHNIT",
           "#f58231"
-        ],
-        [
-          "KERASDVTHNIT",
-          "#42d4f4"
         ],
         [
           "KERASDVTHNIN",
@@ -1064,6 +1052,6 @@
     "entropy"
   ],
   "title": "Phylodynamics of Enterovirus D68",
-  "updated": "09 Dec 2019",
-  "virus_count": 1680
+  "updated": "11 Dec 2019",
+  "virus_count": 1693
 }

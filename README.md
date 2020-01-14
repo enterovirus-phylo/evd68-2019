@@ -8,7 +8,7 @@ You can view the whole manuscript [here]() *(paper link will be added once publi
 
 This analysis was created with sequences of EV-D68 sampled from across Europe in 2019, mainly during the Autumn. VP1 sequences from 2019 with >=300bp were included in a background of all publicly available VP1 sequences at least >=700bp. 
 
-This was run with the Nextstrain augur Enterovirus D68 pipeline. You can see the current code [here](), and the frozen version (the exact version used to run this result) [here](). *(These links will be added once the code is online.)*
+This was run with the Nextstrain augur Enterovirus D68 pipeline. You can see the current code [here](https://github.com/nextstrain/enterovirus_d68), and the frozen version (the exact version used to run this result) [here](https://github.com/nextstrain/enterovirus_d68/releases/tag/1.0).
 
 ---
 
